@@ -4,17 +4,69 @@ font-size: 130px;
 color: aliceblue;
 position: absolute;
 top : 35%;
-right: 32%;
-
+right: 36.5%;
+align-items: center;
 }
-.box {
+h2 {
+  font-family: "Blogger Sans";
+  font-size: 45px;
+  color: #000;
+  position: absolute;
+  top : 35%;
+  right: 38.9%;
+}
+h3 {
+  font-family: "Blogger Sans";
+  font-size: 45px;
+  color: #000;
+  position: absolute;
+  top : 55%;
+  right: 58.1%;
+}
+h4 {
+  font-family: "Blogger Sans";
+  font-size: 45px;
+  color: #000;
+  position: absolute;
+  top : 53.6%;
+  right: 47.5%;
+}
+h5 {
+  font-family: "Blogger Sans";
+  font-size: 45px;
+  color: #000;
+  position: absolute;
+  top : 52%;
+  right: 38.9%;
+}
+
+
+.box1{
     background-color: black;
-    width: 700px;
+    width: 175px;
     height: 130px;
     position: absolute;
     border-radius: 45px;
     top: 45%;
-    right: 30.5%;
+    right: 35.5%;
+}
+.box2{
+  background-color: black;
+  width: 175px;
+  height: 130px;
+  position: absolute;
+  border-radius: 45px;
+  top: 45%;
+  right: 55%;
+}
+.box3{
+  background-color: black;
+  width: 175px;
+  height: 130px;
+  position: absolute;
+  border-radius: 45px;
+  top: 45%;
+  right: 45.25%;
 }
 .white { 
     height: 100vh;
